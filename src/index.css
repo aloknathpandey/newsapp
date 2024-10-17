@@ -2,3 +2,8 @@
     max-height:150px;
     width: 100%;
 }
+.imgH{
+    height: 25px;
+    width: 25px;
+    align-items: center;
+}
